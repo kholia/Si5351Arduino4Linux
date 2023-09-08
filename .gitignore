@@ -1,5 +1,6 @@
 .vscode/
 si5351_cli
+example_ft8_beacon
 *.o
 *.a 
 *.so
